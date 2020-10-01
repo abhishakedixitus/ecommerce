@@ -1,0 +1,65 @@
+*{
+	width: 100%;
+
+	font-family: Calibri, Arial, sans-serif;
+}
+body{
+	margin: 0;
+	width:100%;
+}
+p{
+	text-align:left;
+}
+div{
+	background-color: #853B22;
+
+}
+#top img{
+	display: block;
+	margin: auto;
+	height: 100px;
+	width: 300px;
+	
+}
+
+h1{
+	text-align:center;
+	
+}
+
+h2{
+	text-align:center;
+}
+
+
+
+.contact{
+	text-align:left;
+	display: flex;
+}
+	
+	.email{
+		display: inline-block;
+		background-color: #FF4A6A;
+		padding-top: 5%;
+		padding-left: 5%;
+		padding-right: 5%;
+		padding-bottom: 2%;
+	}
+	.phone{
+		display: inline-block;
+		background-color: #FF96AA;
+		padding: 5%;
+	}
+	.mail{
+		display: inline-block;
+		background-color: #FF4A6A;
+		padding: 5%;
+	}
+
+
+@media screen and (max-width: 600px) {
+  
+ 
+  
+}
